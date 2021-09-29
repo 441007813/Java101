@@ -1,6 +1,6 @@
 import java.util.Scanner;
 // your grade 4/5
-//mnsor najaa
+//mansor najaa
 //441007813
 class Main {
   public static void main(String[] args) {
