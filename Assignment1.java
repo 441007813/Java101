@@ -6,9 +6,9 @@ class Main {
   public static void main(String[] args) {
       //Start your code
       Scanner myscanner = new Scanner(System.in);
-      Systam.out.println("enter a number");
+      System.out.println("Enter a Number");
       float var1 = myscanner.nextFloat();
-      Systam.out.println("enter a number");
+      System.out.println("Enter a Number");
       float var2 = myscanner.nextFloat();
       System.out.println("addition");
       System.out.println(var1+var2);
