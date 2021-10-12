@@ -10,7 +10,7 @@ public class Q1 {
             System.out.println("E");
         }
          else{
-             System.out.println("Q");
+             System.out.println("O");
          }  
         
         
