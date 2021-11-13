@@ -1,6 +1,8 @@
 import java.util.Random;
 import java.util.Scanner;
+// your grade is 4.5
 
+//@todo fix the class name to match the java file name !!!! golden rule
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

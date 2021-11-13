@@ -8,8 +8,10 @@ public class Mid {
 	if (var >= 90 && var <= 100){
 	   System.out.println(+ var +  "A");
 	}else if (var >= 80 ){
+		//grade is greater than 80, but not equal
 	    System.out.format("Good job with" + var +  "out of 100" );
 	}else if (var >= 60){
+		//grade is greater than 60, but not equal
 	    System.out.format("passed the course with" + var + "out of 100");
 	}else {
 	    System.out.println("sorry you fail or yuo entered a wrong grade");
